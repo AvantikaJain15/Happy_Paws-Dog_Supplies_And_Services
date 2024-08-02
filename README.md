@@ -20,8 +20,8 @@ The Happy Paws Dashboard is a comprehensive web application designed to cater to
 ## Technology Stack:
 
 ### Frontend:
-- HTML5: Used for structuring the web pages, ensuring semantic and accessible content.
-- CSS3: Utilized for styling the web pages, creating a visually appealing and responsive design. Custom CSS is implemented to achieve a unique and engaging look.
+- **HTML5:** Used for structuring the web pages, ensuring semantic and accessible content.
+- **CSS3:** Utilized for styling the web pages, creating a visually appealing and responsive design. Custom CSS is implemented to achieve a unique and engaging look.
 - **JavaScript:** Provides dynamic interactions and enhances the user experience through client-side scripting.
 - **Font Awesome:** Integrated for scalable vector icons, enhancing the visual interface with a wide range of icons.
 
@@ -84,3 +84,8 @@ You should see the Happy Paws Dashboard homepage.
 
 ## Conclusion:
 The Happy Paws Dashboard is a robust and secure web application designed using modern web development technologies. It offers a comprehensive solution for dog owners, providing high-quality services and products through a user-friendly and visually appealing platform. The technological stack and implementation strategies ensure the application is scalable, secure, and efficient, meeting the needs of both users and administrators.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+By following these instructions, you can replicate the project setup and effectively run this website.
